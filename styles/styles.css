@@ -56,10 +56,17 @@ body {
   }
 .p{
   padding: 10px;
+  font-size: 50%;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h5 {
+  font-size: 110%;
 }
 
 .lukesface {
